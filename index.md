@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to CppConfs!
 
-You can use the [editor on GitHub](https://github.com/erangi/cppconfs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The number of C++ conferences has lately been increasing almost as fast as the number of language features. Which is a great thing ;)
+Unlike academic conferences, C++ conferences are happy to feature talks that have been previously given elsewhere. This allows speakers to interact with a larger crowd, and allows smaller conferences to get a hold of top notch speakers. The purpose of this list is to help people - speakers and not - be aware of conferences of interest, and be able to plan ahead.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this list is to provide the basic details of each listed conference, and provide some historic perspective. Since some of the details are not public, if you have some missing detail, feel free to contribute it. That includes unlisted conferences, of course.
 
-### Markdown
+### 2019
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+| Name | Dates | Location | Submission deadline | Talks languages | C++ part | # of C++ talks | # of participants | Speakers support |
+|------|-------|----------|---------------------|-----------------|----------|----------------|-------------------|------------------|
+|      |       |          |                     |                 |          |                |                   |                  |
 
-```markdown
-Syntax highlighted code block
+### 2018
 
-# Header 1
-## Header 2
-### Header 3
+| Name | Dates | Location | Submission deadline | Talks languages | C++ part | # of C++ talks | # of participants | Speakers support |
+|------|-------|----------|---------------------|-----------------|----------|----------------|-------------------|------------------|
+|      |       |          |                     |                 |          |                |                   |                  |
 
-- Bulleted
-- List
+### 2017
 
-1. Numbered
-2. List
+| Name | Dates | Location | Submission deadline | Talks languages | C++ part | # of C++ talks | # of participants | Speakers support |
+|------|-------|----------|---------------------|-----------------|----------|----------------|-------------------|------------------|
+|      |       |          |                     |                 |          |                |                   |                  |
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/erangi/cppconfs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
